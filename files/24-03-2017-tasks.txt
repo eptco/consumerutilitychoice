@@ -1,0 +1,21 @@
+click on create lead
+
+status dropdrop need to be same as insurance crm 
+
+sold hold follow up
+
+carrier would be supplier 
+fronter will be user/agent
+coverage type remove
+lead slource drop down
+setings status, lead source
+
+closer -> manager
+
+created a lead -> follow up -> tomorrow -> sold -> 
+
+policy sold -> product sold
+
+policies per client -> average products per client
+
+search leads customers products
